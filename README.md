@@ -10,3 +10,7 @@ The development of  aircraft classification tools like this represents a signifi
 
 ## Objective
 The primary objective of this work is to develop an advanced tool that leverages modern deep learning architectures to classify different types of military aircraft. By utilizing state-of-the-art neural networks, this tool aims to automate the process of identifying and categorizing various aircraft based on distinctive visual features. These features include shape, size, aerodynamic structure, and other unique design characteristics that differentiate one aircraft model from another.
+## Design
+### Neural network architecture
+
+

@@ -27,6 +27,7 @@ A-10, A-400M, AG-600, AH-64, AV-8B, An-124, An-22, An-225, An-72, B-1, B-2, B-21
 ## Train results
 
 ### Eval loss
+<img src="images/eval_loss.png" />
 
-
-
+### Train loss
+<img src="images/train_loss.png" />

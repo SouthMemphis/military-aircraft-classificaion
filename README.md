@@ -44,4 +44,19 @@ from transformers import AutoImageProcessor, AutoModelForImageClassification
 
 processor = AutoImageProcessor.from_pretrained("SouthMemphis/vit-military-aircraft")
 model = AutoModelForImageClassification.from_pretrained("SouthMemphis/vit-military-aircraft")
+inputs = processor(images=<YOUR_IMAGE_PATH>, return_tensors="pt")
+    with torch.no_grad():
+        outputs = model(**inputs)
+    logits = outputs.logits
+    predicted_class_idx = logits.argmax(-1).item()
+
+    
+    predicted_label = model.config.id2label[predicted_class_idx]
+    ax.imshow(image_path)
+    ax.set_title(f"Predicted by model: {predicted_label}")
+    ax.axis('off')
+
+
+    plt.tight_layout()
+    plt.show()
 ```

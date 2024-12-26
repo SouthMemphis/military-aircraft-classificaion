@@ -36,3 +36,12 @@ Other metrics and graphics can be found [here](https://huggingface.co/SouthMemph
 
 ## Examples of predictions made by model.
 <img src="images/test_images.jpg" />
+
+## How you can try this model for your own tasks?
+```
+# Load model directly
+from transformers import AutoImageProcessor, AutoModelForImageClassification
+
+processor = AutoImageProcessor.from_pretrained("SouthMemphis/vit-military-aircraft")
+model = AutoModelForImageClassification.from_pretrained("SouthMemphis/vit-military-aircraft")
+```

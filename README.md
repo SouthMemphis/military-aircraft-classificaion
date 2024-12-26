@@ -16,6 +16,6 @@ The primary objective of this work is to develop an advanced tool that leverages
 The Vision Transformer (ViT) is a deep learning model introduced in 2020 for image classification tasks. Unlike traditional Convolutional Neural Networks (CNNs) that operate on local receptive fields, ViT leverages the transformer architecture, which was originally designed for natural language processing (NLP) tasks, such as machine translation. By applying transformers to image data, ViT introduced a novel approach to visual recognition tasks that has since demonstrated competitive performance compared to CNNs, especially on large datasets. 
 <img src="images/ViT_architecture.png" />
 Below you can see comparsion of Vit with EfficientNet on image classfication task. [Place365](http://places2.csail.mit.edu/download.html) and  [Houses](https://github.com/emanhamed/Houses-dataset) datasets were used in this comparsion.
-<img src="images/ViT_EN.png" />
+<img src="images/Vit_EN.png" />
 
 

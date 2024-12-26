@@ -60,3 +60,9 @@ inputs = processor(images=<YOUR_IMAGE_PATH>, return_tensors="pt")
     plt.tight_layout()
     plt.show()
 ```
+## References
+T. Hiippala, Recognizing Military Vehicles in Social Media Images Using Deep Learning (2017), Proceedings of the 2017 IEEE International Conference on Intelligence and Security Informatics.
+
+A. Khashman, Automatic Detection of Military Targets Utilising Neural Networks and Scale Space Analysis (2000), RTO IST Symposium on “New Information Processing Techniques for Military Systems”.
+
+S. Liu & Z. Liu, Multi-Channel CNN-based Object Detection for Enhanced Situational Awareness (2017), NATO Science and Technology Organisation Proceedings.

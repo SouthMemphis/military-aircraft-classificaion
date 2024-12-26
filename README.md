@@ -35,4 +35,4 @@ A-10, A-400M, AG-600, AH-64, AV-8B, An-124, An-22, An-225, An-72, B-1, B-2, B-21
 Other metrics and graphics can be found [here](https://huggingface.co/SouthMemphis/vit-military-aircraft/tensorboard).
 
 ## Examples of predictions made by model.
-<img src="images/test_images.JPG" />
+<img src="images/test_images.jpg" />

@@ -24,4 +24,9 @@ In this work I used  [this](https://www.kaggle.com/datasets/a2015003713/military
 
 A-10, A-400M, AG-600, AH-64, AV-8B, An-124, An-22, An-225, An-72, B-1, B-2, B-21, B-52, Be-200, C-130, C-17, C-2, C-390, C-5, CH-47, CL-415, E-2, E-7, EF-2000, F-117, F-14, F-15, F-16, F-22, F-35, F-4, F/A-18, H-6, J-10, J-20, JAS-39, JF-17, JH-7, KC-135, KF-21, KJ-600, Ka-27, Ka-52, MQ-9, Mi-24, Mi-26, Mi-28, Mig-29, Mig-31, Mirage2000, P-3, RQ-4, Rafale, SR-71, Su-24, Su-25, Su-34, Su-57, TB-001, TB-2, Tornado, Tu-160, Tu-22M, Tu-95, U-2, UH-60, US-2, V-22, Vulcan, WZ-7, XB-70, Y-20, YF-23, Z-19.
 
+## Train results
+
+### Eval loss
+
+
 

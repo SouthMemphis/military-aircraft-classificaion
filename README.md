@@ -31,3 +31,5 @@ A-10, A-400M, AG-600, AH-64, AV-8B, An-124, An-22, An-225, An-72, B-1, B-2, B-21
 
 ### Train loss
 <img src="images/train_loss.PNG" />
+
+Other metrics and graphics can be found [here](https://huggingface.co/SouthMemphis/vit-military-aircraft/tensorboard).

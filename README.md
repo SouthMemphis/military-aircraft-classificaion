@@ -11,6 +11,7 @@ The development of  aircraft classification tools like this represents a signifi
 ## Objective
 The primary objective of this work is to develop an advanced tool that leverages modern deep learning architectures to classify different types of military aircraft. By utilizing state-of-the-art neural networks, this tool aims to automate the process of identifying and categorizing various aircraft based on distinctive visual features. These features include shape, size, aerodynamic structure, and other unique design characteristics that differentiate one aircraft model from another.
 ## Design
+All process of data preparation, model fine-tuning and it's testing you can find [here](https://huggingface.co/SouthMemphis/vit-military-aircraft/mac-dec-ipynb)
 ### Neural network architecture
 
 The Vision Transformer (ViT) is a deep learning model introduced in 2020 for image classification tasks. Unlike traditional Convolutional Neural Networks (CNNs) that operate on local receptive fields, ViT leverages the transformer architecture, which was originally designed for natural language processing (NLP) tasks, such as machine translation. By applying transformers to image data, ViT introduced a novel approach to visual recognition tasks that has since demonstrated competitive performance compared to CNNs, especially on large datasets. 
